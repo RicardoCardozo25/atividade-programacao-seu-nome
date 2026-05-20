@@ -60,9 +60,9 @@ O projeto apresenta uma base sólida para um sistema de orçamento de materiais 
 
 ## 👥 Colaboração
 
-1. Ricardo da Silva Cardozo           https://github.com/RicardoCardozo25
-2. Vitor Oliveira F. Alves            https://github.com/VitorKng
-3. Luis Felipe Ferreira de Aguiar     https://github.com/LuisFelipeAguiar
+1. Ricardo da Silva Cardozo-----------https://github.com/RicardoCardozo25
+2. Vitor Oliveira Fernandes Alves-----https://github.com/VitorKng
+3. Luis Felipe Ferreira de Aguiar-----https://github.com/LuisFelipeAguiar
 
 ---
 
