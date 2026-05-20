@@ -62,7 +62,9 @@ O projeto apresenta uma base sólida para um sistema de orçamento de materiais 
 
 ## 👥 Colaboração
 
-Todos os integrantes.
+Ricardo da Silva Cardozo
+Vitor Oliveira
+Luis Felipe
 
 ---
 
