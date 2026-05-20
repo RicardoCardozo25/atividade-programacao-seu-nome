@@ -18,9 +18,15 @@ Descreva aqui o desafio proposto pelo grupo (ex: cadastro de usuários, automaç
 
 ## ⚙️ Plataforma Utilizada
 
-- Nome da plataforma (ex.: Bubble, Make, Pipedream).
+- O protótipo foi desenvolvido utilizando tecnologias web front-end:
+•	HTML5 → estrutura da aplicação; 
+•	CSS3 → estilização, responsividade e animações; 
+•	JavaScript Vanilla → lógica do sistema, cálculos e interações; 
+•	Execução possível em: 
+o	Visual Studio Code (VS Code); 
+o	Navegadores modernos como Google Chrome, Edge e Firefox. 
+Não foram utilizados frameworks externos como React, Angular ou Bootstrap.
 
-- Justificativa da escolha: por que essa ferramenta foi selecionada para o desafio?
 
 ---
 
@@ -28,11 +34,11 @@ Descreva aqui o desafio proposto pelo grupo (ex: cadastro de usuários, automaç
 
 Liste pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code/vibecode:
 
-1. Protótipo rápido
+1.  Interface moderna e responsiva
 
-2. Integração simples
+2. Facilidade de uso
 
-3. Automação de processos
+3.  Organização dos materiais
 
 ---
 
@@ -40,23 +46,23 @@ Liste pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code
 
 Liste pelo menos **3 limitações** percebidas:
 
-1. Customização limitada
+1.  Busca restrita
 
-2. Dependência da plataforma
+2. Sem autenticação
 
-3. Risco de lock-in tecnológico
+3. Dados não persistem
 
 ---
 
 ## 📚 Reflexão Crítica
 
-Explique como o grupo lidou com as limitações e quais soluções criativas foram propostas para contorná-las.
+O projeto apresenta uma base sólida para um sistema de orçamento de materiais de construção, demonstrando conceitos importantes de desenvolvimento web, responsividade, usabilidade e manipulação dinâmica de dados com JavaScript. Apesar de utilizar dados simulados, o protótipo mostra potencial para evoluir para uma aplicação completa de gestão de obras e comparação de preços em tempo real.
 
 ---
 
 ## 👥 Colaboração
 
-Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
+Todos os integrantes.
 
 ---
 
@@ -74,6 +80,6 @@ Professor(a): Kadidja Valéria
 
 ## 🚀 Próximos Passos
 
-- Melhorias sugeridas para o protótipo.
+-  Integração com IAv
 
-- Possíveis evoluções para o Projeto Final da Unidade 3.
+-  Integração com e-commerce
