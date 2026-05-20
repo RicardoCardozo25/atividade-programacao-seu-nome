@@ -46,7 +46,7 @@ Liste pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code
 
 Liste pelo menos **3 limitações** percebidas:
 
-1.  Busca restrita
+1. Busca restrita
 
 2. Sem autenticação
 
@@ -62,9 +62,9 @@ O projeto apresenta uma base sólida para um sistema de orçamento de materiais 
 
 ## 👥 Colaboração
 
-Ricardo da Silva Cardozo
-Vitor Oliveira
-Luis Felipe
+1. Ricardo da Silva Cardozo
+2. Vitor Oliveira
+3. Luis Felipe
 
 ---
 
