@@ -2,17 +2,15 @@
 
 ## 📌 Desafio Escolhido
 
-Descreva aqui o desafio proposto pelo grupo (ex: cadastro de usuários, automação de envio de e-mails, integração com API de IA).
+Loja para compras de materiais de construção.
 
 ---
 
 ## 🖥️ Protótipo
 
-- Prints das telas ou link para a aplicação criada.
+- O prototipo foi desenvolvido usando HTML e Copilot.
 
-- Breve explicação de como o protótipo funciona.
-
-> Coloque os arquivos de imagem ou PDF na pasta `/docs`.
+- Foi feito para suporte de quem procura lojas de confiança para sua construção.
 
 ---
 
