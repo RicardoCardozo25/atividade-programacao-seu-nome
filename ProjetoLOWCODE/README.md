@@ -25,6 +25,8 @@ o	Visual Studio Code (VS Code);
 o	Navegadores modernos como Google Chrome, Edge e Firefox. 
 Não foram utilizados frameworks externos como React, Angular ou Bootstrap.
 
+Outra ferramenta utilizada foi o Canva/Canva Code.
+O motivo da escolha foi pela facilidade e simplicidade que um usuario sem muita experiencia com a ferramenta possa utiliza-la.
 
 ---
 
